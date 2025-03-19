@@ -5,5 +5,9 @@
     },
     "record": {
         "CNAME": "silvatechb.github.io"
-    }
+    },
+    "nameservers": [
+        "ridge.ns.cloudflare.com",
+        "selah.ns.cloudflare.com"
+    ]
 }
