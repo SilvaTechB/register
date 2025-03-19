@@ -1,9 +1,13 @@
 {
-  "owner": {
-    "username": "SilvaTechB",
-    "email": "momanyi.2913@gmail.com"
-  },
-  "record": {
-    "CNAME": "silvatechb.github.io"
-  }
+    "owner": {
+        "username": "SilvaTechInc",
+        "email": "momanyi.2913@gmail.com"
+    },
+    "record": {
+        "CNAME": "silvatechb.github.io"
+    },
+    "nameservers": [
+        "ridge.ns.cloudflare.com",
+        "selah.ns.cloudflare.com"
+    ]
 }
